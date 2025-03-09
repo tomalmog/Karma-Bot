@@ -1148,4 +1148,4 @@ async def slots(ctx, money=0):
 # -----------
 
 if __name__ == '__main__':
-    client.run('NzQzNjE2OTEwMjA1MjU1Nzkx.XzXRNw.puUl7j7XF9NdVBxKgzcDg1IcKLQ')
+    client.run('secret')
